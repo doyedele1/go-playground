@@ -7,5 +7,8 @@ func main() {
 
 	// Declare variables
 	var name string = "Demilade"
-	fmt.Println(name)
+	var number uint8 = 26
+	number = number + 12
+
+	fmt.Println(name, number)
 }

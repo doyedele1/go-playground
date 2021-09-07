@@ -35,3 +35,16 @@
 
 - complex64 (complex numbers with float32 real and imaginary parts)
 - complex128 (complex numbers with float64 real and imaginary parts)
+
+### Strings
+
+- "Hello World"
+
+### Characters
+
+- 'a
+
+### Booleans (takes one bit in the memory)
+
+- true
+- false
