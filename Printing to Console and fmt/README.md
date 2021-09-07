@@ -15,7 +15,7 @@
 - %b (base 2)
 - %o (base 8)
 - %d (base 10)
-- %x (base 16) or &X (base 16 but result in upper case)
+- %x (base 16) or %X (base 16 but result in upper case)
 
 ## Floating Points
 
@@ -39,7 +39,7 @@
 ## Padding
 
 - %09d (pads digit with preceeding zeros to make length 9)
-- %-9d (Pads with spaces (i.e. width 9, left-justified)
+- %-9d (Pads with spaces i.e. width 9, left-justified)
 
 ## Methods
 
