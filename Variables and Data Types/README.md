@@ -42,7 +42,7 @@
 
 ### Characters
 
-- 'a
+- 'a'
 
 ### Booleans (takes one bit in the memory)
 
