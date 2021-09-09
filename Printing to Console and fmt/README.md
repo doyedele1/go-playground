@@ -1,4 +1,4 @@
-# FMT Cheatsheet in Go
+# Fmt Cheatsheet in Go
 
 ## General
 

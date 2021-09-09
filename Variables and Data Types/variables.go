@@ -12,7 +12,7 @@ func main() {
 	fmt.Println(name, number1)
 
 	var number2 = 16             // an implicit variable declaration
-	fmt.Printf("%T \n", number2) // %T prints the type of the variable
+	fmt.Printf("%T \n", number2) // %T prints the type of the variable - printf means print a formatted string
 
 	number3 := 26 // another way to declare a variable using the expression assignment operator - the walrus operator
 	fmt.Printf("%T \n", number3)
